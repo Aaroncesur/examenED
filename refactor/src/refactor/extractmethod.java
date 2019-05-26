@@ -10,6 +10,7 @@ public class extractmethod {
 		private static void examplemethod(int x) {
 			for (int i = 0; i < x; i++){
 				System.out.println("demo "+ i);
+				System.out.println("versión2");
 				}
 		}
 }
